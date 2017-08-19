@@ -9,7 +9,7 @@ How to use:
 Change the remote codes in the source program before uploading the program. These infrared data may be different for your romote. 
 For .java file **String rCode[]=** is infrared data and **String s[]=** is the infrared data.
 
-License
+# License
 ----
 **Free Software**
 
